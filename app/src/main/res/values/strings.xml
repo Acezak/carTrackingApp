@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">carTrackingApp</string>
+    <string name="spinner_text">Seleccione un vehículo</string>
+    <string name="button_go_text">Iniciar conducción</string>
+    <string name="button_free_status_text">Terminar conducción</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

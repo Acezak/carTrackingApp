@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921615349423",
+    "project_id": "cartrack-da6ca",
+    "storage_bucket": "cartrack-da6ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921615349423:android:464f937034c4b9e3b3465a",
+        "android_client_info": {
+          "package_name": "com.acezak.cartrackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921615349423-5ufpvhtlpuq608pi6be9omjaabh1c6l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHd08I13DODradzLaFFFDVixmW4BmAs0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921615349423-5ufpvhtlpuq608pi6be9omjaabh1c6l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
